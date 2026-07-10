@@ -6,7 +6,6 @@ This project predicts whether a loan applicant is likely to default on a loan us
 
 The project includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and deployment using Streamlit.
 
----
 
 ## Dataset
 
@@ -32,7 +31,6 @@ The dataset contains information about loan applicants, including personal, fina
   - 0 = No Default
   - 1 = Default
 
----
 
 ## Technologies Used
 
@@ -46,7 +44,6 @@ The dataset contains information about loan applicants, including personal, fina
 - Streamlit
 - Jupyter Notebook
 
----
 
 ## Project Workflow
 
@@ -61,13 +58,11 @@ The dataset contains information about loan applicants, including personal, fina
 9. Model Saving
 10. Streamlit Deployment
 
----
 
 ## Machine Learning Model
 
 - Logistic Regression
-
----
+  
 
 ## Evaluation Metrics
 
@@ -79,7 +74,6 @@ The dataset contains information about loan applicants, including personal, fina
 - Confusion Matrix
 - Classification Report
 
----
 
 ## Project Structure
 
@@ -102,7 +96,6 @@ Credit-Risk-Model/
 └── images/
 ```
 
----
 
 ## Installation
 
@@ -156,7 +149,6 @@ The Logistic Regression model predicts whether a borrower is likely to default b
 
 The model is evaluated using multiple classification metrics to measure its performance.
 
----
 
 ## Future Improvements
 
@@ -168,7 +160,6 @@ The model is evaluated using multiple classification metrics to measure its perf
 - Feature Importance Analysis
 - Cloud Deployment
 
----
 
 ## Author
 
@@ -176,7 +167,6 @@ Isha Dagar
 
 B.Tech (Artificial Intelligence and Data Science)
 
----
 
 ## License
 
