@@ -163,7 +163,7 @@ The model is evaluated using multiple classification metrics to measure its perf
 
 ## Author
 
-Isha Dagar
+Isha
 
 B.Tech (Artificial Intelligence and Data Science)
 
